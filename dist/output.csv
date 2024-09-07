@@ -1,0 +1,6 @@
+Name,Wrap Up Code,Count
+Agent A,"Transfer, Request Approved, Wrong Dial",3
+Agent B,"General Inquiry, Cancel, Transfer, Save",4
+Agent C,Escalation,1
+Agent D,Billing Inquiry,1
+Agent E,"Active Issue Open, Wrong Dial",2

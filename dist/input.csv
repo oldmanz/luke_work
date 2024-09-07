@@ -1,0 +1,6 @@
+Interaction ID,Date,Name,Queue,Wrap Up Code
+cabd911e-99e0-45e5-be25-99a76f630df3,9/6/2024 2:09,Agent A; Agent B; Agent C,IGS HW New; IB OH; Sup Assist,Transfer; General Inquiry; Escalation
+c8c930bf-be71-48d9-826e-bc2b69615e65,9/6/2024 2:06,Agent D; Agent E,IB PA; IGS Solar,Billing Inquiry; Active Issue Open
+c8c930bf-be71-48d9-826e-bc2b69615e65,9/6/2024 2:03,Agent B,IB Retention,Cancel
+cde14dbb-675a-4d9a-abc3-70ba4a1c5f3a,9/6/2024 2:00,Agent A; Agent E,IGS HW New; IGS Solar,Request Approved; Wrong Dial
+297d618e-4e7e-4ee8-b96f-9e3a3eef0426,9/6/2024 1:57,Agent B; Agent A; Agent B,IB OH; IGS HW Existing; IB Universal,Transfer; Wrong Dial; Save
